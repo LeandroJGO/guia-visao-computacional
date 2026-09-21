@@ -99,13 +99,10 @@ Uma resposta organizada não é automaticamente correta. Quando as fontes não o
 
 ### 4.2. Registro de um teste real
 
-Duplicar este bloco para cada experimento executado. Substituir os campos entre colchetes antes da entrega final.
-
-```text
-Experimento: [E1]
-Data: [21/09/2026]
-Fontes selecionadas no NotebookLM: [1 - Livro: Introdução a Visão Computacional com Python e OpenCV, 2 - Videoaula: Visão Computacional - Introdução à Visão Computacional, 3 - Documento PDF: AS\_97487\_TG\_611I26\_KA\_US\_1088\_1.pdf (Keyence Guide)]
-Objetivo: [Definição da visão computacional e a diferenciação do processamento de imagens. ]
+Experimento: E1
+Data: 21/09/2026
+Fontes selecionadas no NotebookLM: 1 - Livro: Introdução a Visão Computacional com Python e OpenCV, 2 - Videoaula: Visão Computacional - Introdução à Visão Computacional, 3 - Documento PDF: AS\_97487\_TG\_611I26\_KA\_US\_1088\_1.pdf (Keyence Guide)
+Objetivo: Definição da visão computacional e a diferenciação do processamento de imagens. 
 
 Prompt inicial:
 O que é visão computacional?
@@ -113,10 +110,10 @@ O que é visão computacional?
 * Com base nas fontes selecionadas, diferencie visão computacional e processamento de imagens. Apresente definição, exemplo e referência para cada conceito.
 * Distinções claras e referências que sustentem as explicações.
 
-Resposta obtida:
-[### 1\. O que é Visão Computacional?
+**Resposta obtida:
+**1 - O que é Visão Computacional?
 
-* **Definição**: É a ciência e a tecnologia dedicada à criação de máquinas e sistemas artificiais que conseguem "enxergar". O seu objetivo principal é "dar" o sentido da visão a um computador, imitando o sistema visual e a cognição humana para extrair informações de imagens (ou dados multidimensionais) e tomar decisões com base no que foi visto]
+**Definição: É a ciência e a tecnologia dedicada à criação de máquinas e sistemas artificiais que conseguem "enxergar". O seu objetivo principal é "dar" o sentido da visão a um computador, imitando o sistema visual e a cognição humana para extrair informações de imagens (ou dados multidimensionais) e tomar decisões com base no que foi visto
 
 ### 4.3. Cicatrizes: roteiro de troubleshooting
 
